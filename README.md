@@ -1,245 +1,316 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║   ⚡  Nayan Soni · Developer Profile README  ⚡              ║
+  ║   Repo: Nayansoni2004/Nayansoni2004 (special profile repo)   ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
+<!-- 🌌 Animated Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&width=800&lines=Hi+👋+I'm+Nayan+Soni;Backend-Focused+Full+Stack+Java+Developer;Building+Scalable+Web+Applications" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Nayan%20Soni&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Java%20%E2%9A%A1%20Spring%20Boot%20%E2%9A%A1%20Backend%20Engineer%20in%20the%20making&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="header" />
 </div>
 
+<!-- 👨‍💻 Coding GIF + Typing intro side-by-side -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayansoni2004&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  <a href="https://linkedin.com/in/nayansoni1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nayansoni142004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Nayansoni2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <table border="0">
+    <tr>
+      <td width="55%">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=520&lines=%24+whoami;Nayan+Soni+%E2%80%94+Backend+Developer;Crafting+REST+APIs+with+Spring+Boot;Securing+systems+with+JWT+%2B+Spring+Security;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Focus-Backend-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10B981?style=flat-square&logo=briefcase&logoColor=white" />
+      </td>
+      <td width="45%" align="center">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="coder gif" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<!-- 📡 Live Dynamic Badges -->
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Nayansoni2004?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0d1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Nayansoni2004?label=Total%20Stars&style=for-the-badge&color=F59E0B&labelColor=0d1117&logo=star" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Nayansoni2004&style=for-the-badge&color=10B981&label=Profile+Views&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-EC4899?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=white" alt="Collab"/>
+  <img src="https://img.shields.io/badge/Location-Jabalpur%2C%20India-0EA5E9?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=white" />
+</div>
 
-## 🚀 About Me
+<br/>
 
+<!-- ⚡ Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
+> **Backend-first developer** building secure, scalable Java services.
+> Currently architecting REST APIs at midnight and dreaming in `@Annotations` ☕
+
+```java
+@Component
+@Slf4j
+public class NayanSoni implements Developer {
+
+    private final String name      = "Nayan Soni";
+    private final String role      = "Full-Stack Java Developer";
+    private final String education = "B.Tech CSE @ BGIEM Jabalpur";
+    private final double cgpa      = 8.10;
+    private final String location  = "Madhya Pradesh, India 🇮🇳";
+
+    @Override
+    public List<String> currentFocus() {
+        return List.of("Spring Boot", "Microservices", "React.js", "System Design");
+    }
+
+    @Override
+    public String motto() {
+        return "Build secure. Build scalable. Build it beautifully.";
+    }
+
+    @PostConstruct
+    public void shipIt() {
+        log.info("☕ Coffee + Code = Production-ready APIs");
+    }
+}
 ```
-📍 Location: India 🇮🇳
-💼 Role: Backend-Focused Full Stack Developer
-🎯 Focus: Java, Spring Boot, Microservices & REST APIs
-🌱 Currently Learning: React.js, Microservices, Advanced Spring Security
-🎓 Student at Baderia Global Institute of Engineering and Management
-```
 
-I'm passionate about building **scalable, secure, and efficient backend systems** with modern web technologies. I love debugging at night 🌙 and creating solutions that make a real impact!
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
 
----
+## 🧰 Tech Arsenal
 
-## 💡 What I'm Up To
+<div align="center">
 
-- 🔭 **Working on**: [FindSpace – Property Management System](https://github.com/Nayansoni2004/first_full_stack_project)
-  - Full-stack property rental/sales platform
-  - Tech: Spring Boot, React, MySQL
-  
-- 🌱 **Learning**: Spring Boot, Microservices Architecture, React.js, Postman
-- 👯 **Open to**: Collaborating on Spring Boot & Full Stack Web Applications
-- 🤝 **Seeking Help**: Microservices Architecture & Advanced Spring Security
-- 📫 **Reach Me**: [nayansoni142004@gmail.com](mailto:nayansoni142004@gmail.com)
-- 📄 **Resume**: [View My Experience](https://drive.google.com/file/d/1xKdpwWTe4276AVE-LavCxLD7pnV1947g/view)
+<table>
+<tr>
+<td valign="top" width="33%">
 
----
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,bash" />
+</p>
 
-## 🛠️ Tech Stack
+</td>
+<td valign="top" width="33%">
 
-### 🎯 Core Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
+<br/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/JSP%2FServlets-007396?style=flat-square&logo=java&logoColor=white" />
+</p>
 
-### 🔧 Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
-![Servlet & JSP](https://img.shields.io/badge/Servlet_JSP-FF6B6B?style=for-the-badge&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-4A90E2?style=for-the-badge&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-### 💾 Database & ORM
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logoColor=white)
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<br/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+</p>
 
-### 🎨 Frontend Tools
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-### 🔐 Security & APIs
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logoColor=white)
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### 🛠️ Development Tools
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+</td>
+<td valign="top" width="33%">
 
-### 📚 Libraries & Packages
-![JavaMail](https://img.shields.io/badge/JavaMail-EA5C0D?style=for-the-badge&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
-![Jackson](https://img.shields.io/badge/Jackson-4A4A4A?style=for-the-badge&logoColor=white)
-![GSON](https://img.shields.io/badge/GSON-4A4A4A?style=for-the-badge&logoColor=white)
-![Jasypt](https://img.shields.io/badge/Jasypt-FF6B6B?style=for-the-badge&logoColor=white)
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode" />
+<br/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
 
----
+</td>
+<td valign="top" width="33%">
 
-## 📋 Projects
+### ☁️ Learning Next
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,redis" />
+</p>
 
-### 🏠 FindSpace – Property Management System
-> A comprehensive full-stack application for property rental and sales
+</td>
+</tr>
+</table>
 
-**Features:**
-- User authentication & authorization
-- Property listing with dynamic search & filters
-- Real-time notifications
-- Secure payment integration
-- Admin dashboard
+</div>
 
-**Tech Stack:** Spring Boot | React.js | MySQL | Spring Security | REST APIs
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
 
-📍 [View Repository](https://github.com/Nayansoni2004/first_full_stack_project)
+## 📊 GitHub Stats — Live & Dynamic
 
----
+<div align="center">
 
-### 💰 Expense Tracker Application
-> Smart budgeting tool with server-side validation & analytics
+<a href="https://github.com/Nayansoni2004">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nayansoni2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayansoni2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&langs_count=8" />
+</a>
 
-**Features:**
-- Monthly expense tracking
-- Budget analytics & reports
-- Data validation & error handling
-- Fast backend processing
+<br/><br/>
 
-**Tech Stack:** JSP | Servlets | MySQL | Bootstrap | JavaScript
+<img src="https://streak-stats.demolab.com?user=Nayansoni2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=F59E0B&currStreakLabel=8B5CF6" alt="Streak" />
 
----
+<br/><br/>
 
-### 🎨 Personal Portfolio Website
-> Responsive portfolio showcasing skills & projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayansoni2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=F59E0B&area=true&area_color=8B5CF6" width="98%" alt="activity graph" />
 
-**Features:**
-- Mobile-first responsive design
-- Project showcase section
-- Skills highlights
-- Contact integration
+<br/><br/>
 
-**Tech Stack:** HTML5 | CSS3 | JavaScript | Media Queries
+<!-- 🐍 Contribution Snake — auto-generated by GitHub Actions -->
+<img src="https://raw.githubusercontent.com/Nayansoni2004/Nayansoni2004/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="98%" />
 
-📍 [View Portfolio](https://nayansoni01.netlify.app/)
+<br/><br/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Nayansoni2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" width="98%" />
 
-## 🏆 Awards & Certifications
+</div>
 
-| Award | Organization | Date |
-|-------|-------------|------|
-| 🎓 **MERN Backend Development Certification** | PW Skills | 2024 |
-| 🏅 **Microsoft Learn Student Ambassador** | Microsoft | 2023 |
-| 🎖️ **Campus Hackathon Recognition Certificate** | BGIEM | 5th Semester |
-| 📜 **Git, GitHub & Copilot Challenge** | Microsoft Learn | 2023 |
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
 
----
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [FindSpace](https://github.com/Nayansoni2004/FindSpace)
+> Full-stack property rent/sell platform. Dynamic MySQL flow that **slashed manual paperwork** and accelerated listings end-to-end.
+
+`JSP` `Servlets` `Bootstrap` `Tomcat` `MySQL`
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayansoni2004&repo=FindSpace&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899" width="100%" />
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 [Expense Tracker](https://github.com/Nayansoni2004/Expense-Tracker)
+> Monthly budgeting app with **server-side validation** for faster, error-free entries and clean budget insights.
+
+`JSP` `Servlets` `MySQL` `JavaScript`
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayansoni2004&repo=Expense-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
 
 ## 🎓 Education
 
-### 🏫 Baderia Global Institute of Engineering and Management, Jabalpur
-**B.Tech in Computer Science** | Sep 2022 - June 2026
-- CGPA: **8.10/10** (7th Semester)
-- Coursework: OOP, DBMS, DSA, Machine Learning, Software Engineering, Agile Development
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><b>B.Tech in Computer Science</b><br/><sub>Baderia Global Institute of Engineering & Management, Jabalpur · Sep 2022 – Jun 2026</sub></td>
+    <td align="right"><img src="https://img.shields.io/badge/CGPA-8.10%2F10-8B5CF6?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td>🏫</td>
+    <td><b>12th — MP Board</b><br/><sub>KRB School, Kareli · 2022</sub></td>
+    <td align="right"><img src="https://img.shields.io/badge/Score-89.6%25-10B981?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td>🏫</td>
+    <td><b>10th — MP Board</b><br/><sub>2020</sub></td>
+    <td align="right"><img src="https://img.shields.io/badge/Score-85%25-F59E0B?style=for-the-badge" /></td>
+  </tr>
+</table>
 
-### 📚 KRB School, Kareli, Dist. Narsinghpur
-- **12th Standard** | Feb 2022 | Percentage: **89.6%**
-- **10th Standard** | Mar 2020 | Percentage: **85%**
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
 
----
+## 🏆 Achievements & Certifications
 
-## 📊 GitHub Statistics
+- 🎖️ **MERN Backend Development Certification** — *PW Skills*
+- 🥇 **Campus Hackathon** — Recognition Certificate (5th Semester)
+- 🚀 **Microsoft Learn Student Ambassador** — Git, GitHub & Copilot Challenge
+- ☕ **Java + Spring Boot** — Production-grade REST API development
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayansoni2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayansoni2004&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</div>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayansoni2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+## ⚙️ The Magic Behind the Snake 🐍
 
----
+> The contribution snake **auto-regenerates every 24 hours** via GitHub Actions.
+> Drop the workflow below at `.github/workflows/snake.yml` in your profile repo.
 
-## 🔥 Currently Learning
+<details>
+<summary><b>📜 Click to expand the workflow YAML</b></summary>
 
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-Spring Boot Architecture     ████████░░ 80%
-Microservices Design        ███████░░░ 70%
-React.js & Components       ██████░░░░ 60%
-Advanced Spring Security    ███████░░░ 70%
-System Design & LLD         ██████░░░░ 60%
-```
 
----
+</details>
 
-## 💬 Ask Me About
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
 
-- **Backend Development:** Java, Spring Boot, Spring MVC, REST APIs, Microservices
-- **Database Design:** MySQL, MongoDB, JPA/Hibernate
-- **Frontend Basics:** HTML, CSS, JavaScript, Bootstrap, React.js
-- **Security:** Spring Security, JWT, OAuth, Encryption
-- **Tools & Practices:** Maven, Postman, Git, Agile Development
-
----
-
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/nayansoni1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Nayansoni2004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/nayan_soni54862" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:nayansoni142004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://nayansoni01.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
-  </a>
+
+<a href="https://linkedin.com/in/nayansoni1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Nayansoni2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:nayansoni142004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+917999812015"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
+<br/><br/>
+
+### 💭 Dev Quote of the Moment
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="thanks"/>
+
 </div>
 
----
-
-## 📞 Contact Information
-
-| Method | Details |
-|--------|---------|
-| 📧 **Email** | [nayansoni142004@gmail.com](mailto:nayansoni142004@gmail.com) |
-| 📱 **Phone** | +91-7999812015 |
-| 💼 **LinkedIn** | [linkedin.com/in/nayansoni1](https://linkedin.com/in/nayansoni1) |
-| 🌐 **Portfolio** | [nayansoni01.netlify.app](https://nayansoni01.netlify.app/) |
-| 📄 **Resume** | [View on Google Drive](https://drive.google.com/file/d/1xKdpwWTe4276AVE-LavCxLD7pnV1947g/view) |
-
----
+<!-- 🌊 Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D4FF&center=true&width=600&lines=Happy+Coding!+🚀;Let's+build+amazing+things+together!+💻" alt="Happy Coding"/>
-</div>
-
-<div align="center">
-  
-⭐ If you find my work interesting, feel free to star my repositories and connect with me!
-
-*Last Updated: May 2026* 📅
-
+  <sub>⭐ Built with <b>caffeine</b>, <b>curiosity</b> & <b>code</b> by <a href="https://github.com/Nayansoni2004">Nayan Soni</a> — drop a star if you vibe with it!</sub>
 </div>
