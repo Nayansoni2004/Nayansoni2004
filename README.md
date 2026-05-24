@@ -166,7 +166,7 @@ public class NayanSoni implements Developer {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nayansoni2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nayansoni2004" alt="trophies" />
 
 </div>
 
@@ -232,7 +232,6 @@ public class NayanSoni implements Developer {
 - 🎖️ **MERN Backend Development Certification** — *PW Skills*
 - 🥇 **Campus Hackathon** — Recognition Certificate (5th Semester)
 - 🚀 **Microsoft Learn Student Ambassador** — Git, GitHub & Copilot Challenge
-- ☕ **Java + Spring Boot** — Production-grade REST API development
 
 ---
 
@@ -243,8 +242,7 @@ public class NayanSoni implements Developer {
 <a href="https://linkedin.com/in/nayansoni1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Nayansoni2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:nayansoni142004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+917999812015"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://x.com/nayan_soni54862"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <br/><br/>
 
