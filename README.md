@@ -236,49 +236,6 @@ public class NayanSoni implements Developer {
 
 ---
 
-## ⚙️ The Magic Behind the Snake 🐍
-
-> The contribution snake **auto-regenerates every 24 hours** via GitHub Actions.
-> Drop the workflow below at `.github/workflows/snake.yml` in your profile repo.
-
-<details>
-<summary><b>📜 Click to expand the workflow YAML</b></summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
