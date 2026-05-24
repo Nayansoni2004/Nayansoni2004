@@ -1,13 +1,6 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║   ⚡  Nayan Soni · Developer Profile README  ⚡              ║
-  ║   Repo: Nayansoni2004/Nayansoni2004 (special profile repo)   ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <!-- 🌌 Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Nayan%20Soni&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Java%20%E2%9A%A1%20Spring%20Boot%20%E2%9A%A1%20Backend%20Engineer%20in%20the%20making&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,19&height=240&section=header&text=Nayan%20Soni&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Java%20%7C%20SpringBoot&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="header" />
 </div>
 
 <!-- 👨‍💻 Coding GIF + Typing intro side-by-side -->
@@ -16,7 +9,7 @@
     <tr>
       <td width="55%">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=520&lines=%24+whoami;Nayan+Soni+%E2%80%94+Backend+Developer;Crafting+REST+APIs+with+Spring+Boot;Securing+systems+with+JWT+%2B+Spring+Security;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=560&lines=%24+whoami;Nayan+Soni+%E2%80%94+Full-Stack%20Developer;Building+UI+%2B+APIs+for+real+products;Turning+imagination+into+code...;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
         </a>
         <br/><br/>
         <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -41,13 +34,12 @@
 
 <br/>
 
-<!-- ⚡ Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-> **Backend-first developer** building secure, scalable Java services.
-> Currently architecting REST APIs at midnight and dreaming in `@Annotations` ☕
+> **Full-stack developer** with a strong Java backend foundation and a polished frontend mindset.
+> I ship user-friendly interfaces, connect them with scalable Spring Boot services, and deploy them end-to-end.☕
 
 ```java
 @Component
@@ -77,7 +69,7 @@ public class NayanSoni implements Developer {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+---
 
 ## 🧰 Tech Arsenal
 
@@ -148,7 +140,7 @@ public class NayanSoni implements Developer {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+---
 
 ## 📊 GitHub Stats — Live & Dynamic
 
@@ -178,7 +170,7 @@ public class NayanSoni implements Developer {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+---
 
 ## 🚀 Featured Projects
 
@@ -211,7 +203,7 @@ public class NayanSoni implements Developer {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+---
 
 ## 🎓 Education
 
@@ -233,7 +225,7 @@ public class NayanSoni implements Developer {
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+---
 
 ## 🏆 Achievements & Certifications
 
@@ -242,7 +234,7 @@ public class NayanSoni implements Developer {
 - 🚀 **Microsoft Learn Student Ambassador** — Git, GitHub & Copilot Challenge
 - ☕ **Java + Spring Boot** — Production-grade REST API development
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+---
 
 ## ⚙️ The Magic Behind the Snake 🐍
 
@@ -285,7 +277,7 @@ jobs:
 
 </details>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/header.svg" width="100%" alt="divider"/>
+---
 
 ## 🤝 Let's Connect
 
@@ -309,7 +301,7 @@ jobs:
 </div>
 
 <!-- 🌊 Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,19&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <div align="center">
   <sub>⭐ Built with <b>caffeine</b>, <b>curiosity</b> & <b>code</b> by <a href="https://github.com/Nayansoni2004">Nayan Soni</a> — drop a star if you vibe with it!</sub>
